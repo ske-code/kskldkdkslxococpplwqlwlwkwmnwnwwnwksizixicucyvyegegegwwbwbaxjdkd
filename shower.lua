@@ -2885,4 +2885,5 @@ for _,tab in {Rage, Aimbot, Settings} do
 end     
 
 task.wait(0.25)
+
 Window.ToggleMenu(true)
